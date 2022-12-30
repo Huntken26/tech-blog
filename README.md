@@ -30,6 +30,9 @@ Live link:
 ## CREDITS:
 
 I'd like to thank Thanks to the people that were able to help me at least get this far- my tutor Chris, TA Ethan, Instructor Kyle. 
+https://github.com/BulmaTemplates/bulma-templates/blob/master/templates/blog-tailsaw.html
+https://bulmatemplates.github.io/bulma-templates/templates/blog-tailsaw.html
+https://github.com/Huntken26/tech-blog-2022
 https://github.com/Huntken26/project-2
 https://mysql.tutorials24x7.com/blog/guide-to-design-a-database-for-blog-management-in-mysql
 
